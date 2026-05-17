@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Playwright
+playwright-java*/
+
+# OS
+.DS_Store
+Thumbs.db
