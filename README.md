@@ -11,9 +11,10 @@ Proof of Concept, réalisé avec Java, Playwright et Cucumber, avec 3 scenarios 
 ## Stack technique
 
 - Java 17
+- Gherkin
 - Maven
-- Playwright (automatisation navigateur)
-- Cucumber + JUnit 4 (BDD)
+- Playwright
+- Cucumber
 
 ## Lancer les tests
 
